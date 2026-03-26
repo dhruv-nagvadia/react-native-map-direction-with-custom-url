@@ -1,0 +1,48 @@
+{
+  "name": "react-native-map-direction-with-custom-url",
+  "version": "2.0.0",
+  "description": "Directions Component for react-native-maps with backend proxy support and API key restrictions",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:watch": "esw --watch"
+  },
+  "author": {
+    "name": "Dhruv Nagvadia",
+    "url": "https://github.com/dhruv-nagvadia"
+  },
+  "repository": "https://github.com/dhruv-nagvadia/react-native-map-direction-with-custom-url",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-maps",
+    "directions",
+    "google-maps",
+    "backend-proxy",
+    "custom-url",
+    "api-key-restriction",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhruv-nagvadia/react-native-map-direction-with-custom-url/issues"
+  },
+  "homepage": "https://github.com/dhruv-nagvadia/react-native-map-direction-with-custom-url",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-maps": ">=1.0.0"
+  },
+  "private": false,
+  "dependencies": {
+    "lodash.isequal": "^4.5.0",
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.11.0",
+    "eslint-plugin-react": "^7.5.1",
+    "eslint-plugin-react-native": "^3.2.0"
+  }
+}

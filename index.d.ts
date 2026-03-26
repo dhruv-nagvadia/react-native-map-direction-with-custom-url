@@ -107,6 +107,7 @@ declare module "react-native-map-direction-with-custom-url" {
       | "none";
 
   export interface MapViewDirectionsProps {
+    key?: React.Key | null;
     /**
      * The origin location to start routing from.
      */

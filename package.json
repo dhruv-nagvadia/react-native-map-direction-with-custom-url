@@ -1,6 +1,6 @@
 {
   "name": "react-native-map-direction-with-custom-url",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Directions Component for react-native-maps with backend proxy support and API key restrictions",
   "main": "index.js",
   "scripts": {
